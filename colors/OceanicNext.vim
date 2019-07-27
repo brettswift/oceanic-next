@@ -26,7 +26,7 @@
   endif
 "}}}
 " {{{ Colors
-  let s:base00=['#1b2b34', '235']
+  let s:base00=['#131e24', '235']
   let s:base01=['#343d46', '237']
   let s:base02=['#4f5b66', '240']
   let s:base03=['#65737e', '243']
@@ -286,4 +286,3 @@ let g:terminal_color_15=s:base05[0]
 
 let g:terminal_color_background=s:base00[0]
 let g:terminal_color_foreground=s:base10[0]
-
